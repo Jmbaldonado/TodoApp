@@ -1,0 +1,13 @@
+.btn-custom {
+    background-color: hsl(254, 95%, 78%)!important;
+}
+
+.btn-custom:hover {
+    background-color: hsla(254, 90%, 70%, 0.7)!important;
+}
+
+.title {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
